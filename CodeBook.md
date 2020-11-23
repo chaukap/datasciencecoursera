@@ -16,7 +16,7 @@ be presents in the working directory. The script performs the following tasks as
 
 `run_analysis.R` requires the dplyr R package and all of it's dependencies.
 
-## Load the data'
+## Load the data
 
 `run_analysis.R` first loads the data, subjects, and labels
 ```
